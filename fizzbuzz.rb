@@ -1,2 +1,6 @@
+def divisable(x,y)
+  if (x % )
+
 def fizzbuzz(n)
-  if (n %)
+  a = 3
+  b = 5

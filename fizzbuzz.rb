@@ -21,5 +21,6 @@ def fizzbuzz(n)
   if(result == "")
     result = NIL
   end
+  
   return result
 end

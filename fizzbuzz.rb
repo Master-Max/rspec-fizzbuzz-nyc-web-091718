@@ -9,5 +9,6 @@ end
 def fizzbuzz(n)
   a = 3
   b = 5
-  if(divAble(n,a) && divAble(n,b))
-    return
+  result = ""
+  if(divAble(n,a))
+    result 

@@ -12,9 +12,13 @@ def fizzbuzz(n)
   result = ""
   if(divAble(n,a))
     result = result + "Fizz"
+  end
+  
   if(divAble(n,b))
     result = result + "Buzz"
-  else
+  end
+  
+  if(result == "")
     result = NIL
   end
   return result
